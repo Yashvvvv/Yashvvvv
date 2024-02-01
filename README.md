@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashvvvv
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Instagram 
 - 📫 How to reach me through my Instagram ID
 
