@@ -57,7 +57,6 @@ An experimental Kotlin project exploring advanced UI/UX components.
 
 ## 📈 GitHub Metrics
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashvvvv&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvvvv&layout=compact&theme=radical)
 
 ---
