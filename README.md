@@ -67,7 +67,7 @@ An experimental Kotlin project exploring advanced UI/UX components.
 - 🌐 **LinkedIn:** [in/yash-sharmagg](https://www.linkedin.com/in/yash-sharmagg)  
 - 🐦 **Twitter:** [@_Yash_ss](https://twitter.com/_Yash_ss)  
 - 📍 **Location:** Delhi, India  
-- ✉️ **Email:** yash.sharmagg@example.com (replace with your preferred contact)
+- ✉️ **Email:** yashatlinkedin369@gmail.com
 
 ---
 
